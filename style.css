@@ -1,0 +1,83 @@
+.heading {
+    background-color: rgb(42, 42, 233);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+}
+
+.logo {
+     display: flex;
+     justify-content:center;
+     align-items:center;
+    /* margin-left: 550px; */
+    /* background-color: rgb(238, 221, 221); */
+}
+
+.Notebook {
+    /* margin-left: 950px; */
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.blog {
+    background-color: grey;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: white;
+}
+
+.box {
+    /* border: 2px solid black; */
+    height: 300px;
+    width: 23%;
+    background-color: white;
+    Padding: 20px 0px 15px;
+    margin-top: 5px;
+}
+
+.box-content {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.box-img {
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.box-content {
+    color: #007185;
+}
+
+.button {
+    margin-right: 10px;
+}
+
+.email {
+    margin-right: 20px;
+}
+
+.footer1 {
+    background-color: white;
+    color: black;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer2 {
+    height: 50px;
+    background-color: rgb(100, 88, 88);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
